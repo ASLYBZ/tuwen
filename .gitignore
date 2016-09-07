@@ -1,7 +1,9 @@
 *.DS_Store
 *.xcodeproj
 *.xcodeproj/
-*.xcuserdatad  
+*.xcuserdatad
+xcuserdatad/
+xcodeproj/  
 project.xcworkspace  
 xcuserdata  
 UserInterfaceState.xcuserstate  
