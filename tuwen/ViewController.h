@@ -8,7 +8,11 @@
 
 
 // 添加注释
-// 再次添加111222333
+<<<<<<< HEAD
+
+
+// 再次添加111222333444
+>>>>>>> origin/master
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
